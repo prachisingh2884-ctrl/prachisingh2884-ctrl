@@ -1,14 +1,9 @@
 <p align="center">
-  <img src="data_analysis_converted.jpg" width="77%" style="animation: zoom 5s infinite alternate;">
+  <img src="https://github.com/prachisingh2884-ctrl/prachisingh2884-ctrl/blob/main/data_analysis_converted.jpg" 
+       width="600" 
+       alt="Data Analysis Illustration" />
 </p>
 
-<style>
-@keyframes zoom {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-</style>
 
 
 <!-- 🚀 Modern Animated Header | Data Science Learner -->
