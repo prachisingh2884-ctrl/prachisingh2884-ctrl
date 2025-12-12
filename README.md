@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://github.com/prachisingh2884-ctrl/prachisingh2884-ctrl/blob/main/data_analysis_converted.jpg width="100%" />
+  <img src=https://github.com/prachisingh2884-ctrl/prachisingh2884-ctrl/blob/main/data_analysis_converted.jpg width="77%" />
 </p>
 
 <!-- 🚀 Modern Animated Header | Data Science Learner -->
@@ -9,7 +9,8 @@
 </p>
 
 <h1 align="center">
-  <span style="color:#00FF00;">Hi, I'm Prachi Singh! 👋</span>
+  # Hi, I'm Prachi Singh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand">
+
 </h1>
 
 
