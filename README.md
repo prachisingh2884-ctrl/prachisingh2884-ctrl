@@ -1,7 +1,5 @@
 ![logo](https://github.com/prachisingh2884-ctrl/prachisingh2884-ctrl/blob/main/Blue%20Modern%20Data%20Analysis%20Presentation.pdf)
-<p align="center">
-  <img src=	https://img.freepik.com/free-vector/data-analysis-…d6acdc17263f7306d6a0862a31aa8804c9a9e1525c&w=1480 width="100%" alt="glitch banner" />
-</p>
+
 <!-- 🚀 Modern Animated Header | Data Science Learner -->
 
 <p align="center">
