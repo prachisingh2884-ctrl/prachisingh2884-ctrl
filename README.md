@@ -118,7 +118,31 @@ Aapki **career-ready skill progression** ka roadmap:
   </a> 
 </div>
 
----
+---<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=prachisingh2884-ctrl&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=prachisingh2884-ctrl&theme=tokyonight&hide_border=true" height="160" />
+
+  <br><br>
+
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prachisingh2884-ctrl&theme=tokyonight" height="210" />
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachisingh2884-ctrl&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+
+  <br><br>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prachisingh2884-ctrl&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true" height="220" />
+
+</div>
+
 
 
 
