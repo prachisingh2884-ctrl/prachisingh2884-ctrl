@@ -1,4 +1,6 @@
-![logo]((https://github.com/prachisingh2884-ctrl/prachisingh2884-ctrl/blob/main/pdf_page1.png))
+<p align="center">
+  <img src=https://github.com/prachisingh2884-ctrl/prachisingh2884-ctrl/blob/main/data_analysis_converted.jpg width="100%" />
+</p>
 
 <!-- 🚀 Modern Animated Header | Data Science Learner -->
 
