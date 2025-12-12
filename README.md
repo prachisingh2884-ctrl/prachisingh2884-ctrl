@@ -152,9 +152,17 @@ flowchart TD
   🚀 Trying to make tech more fun, fast, and fail-proof—one commit at a time.
 </p>
 
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyclF1b2RuMGRyY3MzYTFxeHc0YWNvb3VlbwktOdmlmc3Cobz7d4g/giphy.gif" height="100" alt="Confetti animation">
+  <!-- Techy Confetti / Celebration GIF -->
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" height="120" alt="Celebration Animation" />
   <br>
-  <sub><i>Modern Analyst + DataScience by Piyush Suthar</i></sub>
+  <sub>
+    <i style="color:#00FF00; font-size:14px;">
+      🚀 Modern Analyst + Data Science Enthusiast <br> by Prachi Singh
+    </i>
+  </sub>
+  <br>
+  <span style="font-size:16px;">✨ Turning data into insights, one pipeline at a time ✨</span>
 </div>
+
+
