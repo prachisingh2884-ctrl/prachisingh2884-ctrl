@@ -141,14 +141,6 @@ flowchart TD
 # 🌈 Final Thought
 
 <p align="center">
-  ✨ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"> Pipelines are like puzzles; ML is like magic. ✨
-</p>
-
-<p align="center">
-  🎉 Every new tool is a party, and every new problem is an invitation.  
-</p>
-
-<p align="center">
   🚀 Trying to make tech more fun, fast, and fail-proof—one commit at a time.
 </p>
 
@@ -164,18 +156,3 @@ flowchart TD
   <br>
   <span style="font-size:16px;">✨ Turning data into insights, one pipeline at a time ✨</span>
 </div>
-<div align="center">
-  <!-- Techy Confetti / Celebration GIF -->
-  <img src=https://chatgpt.com/backend-api/estuary/content?id=file_00000000b7c472079802ebd94d9291a3&ts=490431&p=fs&cid=1&sig=0b9bd0c297e0ea0b8dc84b413bd246b2a34655fa359944b6822265912b3e2de6&v=0 height="120" alt="Celebration Animation" />
-  <br>
-  <sub>
-    <i style="color:#00FF00; font-size:14px;">
-      🚀 Modern Analyst + Data Science Enthusiast <br> by Prachi Singh
-    </i>
-  </sub>
-  <br>
-  <span style="font-size:16px;">✨ Turning data into insights, one pipeline at a time ✨</span>
-</div>
-
-
-
