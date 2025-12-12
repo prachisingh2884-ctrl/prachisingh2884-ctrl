@@ -50,7 +50,7 @@ Aapki **career-ready skill progression** ka roadmap:
 ## 📌 Flow Details
 
 - **Basics**: Programming fundamentals, Git & GitHub, Linux commands  
-- **Python**: `pandas`, `numpy`, `matplotlib`, `seaborn`  
+- **Python**: `pandas`, `numpy`, `matplotlib`,   
 - **SQL**: Queries, Joins, Aggregations, Data Extraction  
 - **EDA (Exploratory Data Analysis)**: Data cleaning, visualization, feature engineering  
 - **Machine Learning**: `scikit-learn`, `XGBoost`, `LightGBM`, Model evaluation  
