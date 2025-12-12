@@ -191,7 +191,7 @@ Aapki **career-ready skill progression** ka roadmap:
   <a href="https://github.com/prachisingh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=for-the-badge" alt="GitHub Profile">
   </a>
-  <a href="www.linkedin.com/in/prachi-singh-249263288" target="_blank">
+  <a href="www.linkedin.com/in/prachi-singh-249263288/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
  
