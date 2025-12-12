@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=FFC300&vCenter=true&width=900&lines=Data+Science+Learner;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Analyst;Welcome+to+My+Tech+Space!" alt="typing" />
 </p>
 
-<h1 align="center" style="color:#00FF00;">Hi, I'm Prachi Singh! 👋</h1>
+<h1 align="center" style="color:#FF0099;">Hi, I'm Prachi Singh! 👋</h1>
 
 
 <p align="center" style="font-size:1.05em">
