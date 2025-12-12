@@ -42,22 +42,61 @@ flowchart TD
 ## 💡 Toolbox of the Modern Era
 
 <div align="center"> 
-  <!-- DevOps -->
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white" alt="AWS" />
+  <!-- DevOps --> 
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white" /> 
   </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <a href="https://kubernetes.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" /> 
   </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins" />
+  <a href="https://www.jenkins.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" /> 
   </a>
-  <!-- Example: Direct USA site -->
-  <a href="https://www.usa.gov/" target="_blank">
-    <img src="https://img.shields.io/badge/USA-GREEN?style=for-the-badge" alt="USA Website" />
+  <a href="https://github.com/features/actions" target="_blank"> 
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" /> 
   </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> 
+  </a> 
+
+  <!-- Data Science --> 
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" /> 
+  </a>
+  <a href="https://numpy.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" /> 
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /> 
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" /> 
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&logoColor=white" /> 
+  </a> 
+
+  <!-- Others --> 
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> 
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white" /> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" /> 
+  </a> 
 </div>
 
+---
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushsuthar07&show_icons=true&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=piyushsuthar07&theme=radical" height="160" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushsuthar07&theme=monokai" height="200" />
+</div>
 
 ---
 
