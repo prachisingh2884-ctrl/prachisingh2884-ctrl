@@ -1,10 +1,10 @@
 <!-- 🚀 Modern Animated Header | Data Science Learner -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00F5FF&vCenter=true&width=900&lines=Data+Science+Learner;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Analyst;Welcome+to+My+Tech+Space!" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=#6a5acd&vCenter=true&width=900&lines=Data+Science+Learner;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Analyst;Welcome+to+My+Tech+Space!" alt="typing" />
 </p>
 
-<h1 align="center">Hi, I'm Piyush Suthar! 👋</h1>
+<h1 align="center">Hi, I'm Prachi Singh! 👋</h1>
 
 <p align="center" style="font-size:1.05em">
   <b>🚀 Data Science</b> &nbsp;|&nbsp; <b>📈 Aspiring Data Analyst</b> &nbsp;|&nbsp; <b>🧠 Python & Power BI</b>
