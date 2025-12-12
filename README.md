@@ -8,7 +8,7 @@
 <!-- 🚀 Modern Animated Header | Data Science Learner -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Monospace&size=30&pause=800&color=00F5FF&background=000000&vCenter=true&width=950&lines=Data+Science+Learner;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Analyst;Welcome+to+My+Tech+Space!" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Monospace&size=30&pause=800&color=00F5FF&background=7F00FF00FFAFCenter=true&width=950&lines=Data+Science+Learner;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Analyst;Welcome+to+My+Tech+Space!" alt="typing" />
 </p>
 
 
