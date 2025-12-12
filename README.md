@@ -1,4 +1,4 @@
-![logo](https://github.com/prachisingh2884-ctrl/prachisingh2884-ctrl/blob/main/Blue%20Modern%20Data%20Analysis%20Presentation.pdf)
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 
 <!-- 🚀 Modern Animated Header | Data Science Learner -->
 
