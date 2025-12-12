@@ -231,15 +231,13 @@ Aapki **career-ready skill progression** ka roadmap:
   <br>
 
   <!-- Interactive Social Badges -->
-  <a href="https://github.com/piyushsuthar" target="_blank">
+  <a href="https://github.com/prachisingh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=for-the-badge" alt="GitHub Profile">
   </a>
-  <a href="https://www.linkedin.com/in/piyushsuthar" target="_blank">
+  <a href="https://www.linkedin.com/in/prachisingh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/piyushsuthar" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter">
-  </a>
+ 
 </div>
 
 <p align="center">
