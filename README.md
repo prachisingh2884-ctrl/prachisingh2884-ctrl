@@ -161,43 +161,6 @@ Aapki **career-ready skill progression** ka roadmap:
   </a>
 </div>
 
-# 🚀 Data Science & ML Learning Path
-
-Aapki **career-ready skill progression** ka roadmap:
-
-<p align="center">
-  <a href="https://github.com/yourusername/basics" target="_blank">
-    <img src="https://img.shields.io/badge/Basics-✅-blue" alt="Basics"/>
-  </a>
-  <a href="https://github.com/yourusername/python" target="_blank">
-    <img src="https://img.shields.io/badge/Python-🐍-yellow" alt="Python"/>
-  </a>
-  <a href="https://github.com/yourusername/sql" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-🗄️-orange" alt="SQL"/>
-  </a>
-  <a href="https://github.com/yourusername/eda" target="_blank">
-    <img src="https://img.shields.io/badge/EDA-📊-green" alt="EDA"/>
-  </a>
-  <a href="https://github.com/yourusername/ml" target="_blank">
-    <img src="https://img.shields.io/badge/ML-🤖-red" alt="ML"/>
-  </a>
-  <a href="https://github.com/yourusername/deployment" target="_blank">
-    <img src="https://img.shields.io/badge/Deployment-☁️-purple" alt="Deployment"/>
-  </a>
-</p>
-
----
-
-## 📌 Flow Details
-
-- **Basics**: Programming fundamentals, Git & GitHub, Linux commands  
-- **Python**: `pandas`, `numpy`, `matplotlib`, `seaborn`  
-- **SQL**: Queries, Joins, Aggregations, Data Extraction  
-- **EDA (Exploratory Data Analysis)**: Data cleaning, visualization, feature engineering  
-- **Machine Learning**: `scikit-learn`, `XGBoost`, `LightGBM`, Model evaluation  
-- **Deployment**: `Flask` / `FastAPI`, `Streamlit`, Docker, Cloud (AWS/GCP)  
-
----
 
 ## 💡 End-to-End Projects
 
