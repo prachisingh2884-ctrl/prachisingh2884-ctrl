@@ -113,13 +113,13 @@ flowchart TD
   </a>
   
   <!-- Email -->
-  <a href="mailto:your_email@example.com" target="_blank">
+  <a href="mailto:prachisingh2884@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
   
-  <!-- USA Link -->
-  <a href="https://www.usa.gov/" target="_blank">
-    <img src="https://img.shields.io/badge/USA-GREEN?style=for-the-badge" alt="USA Website" />
+  <!-- GitHub -->
+  <a href="https://github.com/prachisingh2884-ctrl" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
