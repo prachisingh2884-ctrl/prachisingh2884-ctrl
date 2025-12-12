@@ -23,26 +23,38 @@
   <b>🚀 Data Science</b> &nbsp;|&nbsp; <b>📈 Aspiring Data Analyst</b> &nbsp;|&nbsp; <b>🧠 Python & Power BI</b>
 </p>
 
----
-## 🧬 My Tech Story: Automating + Innovating Across Stacks
+# 🚀 Data Science & ML Learning Path
 
-mermaid
-flowchart TD
-    Start{{Learn Basics}} --> Python[Python for Data]
-    Python --> SQL[SQL & Databases]
-    SQL --> EDA[Exploratory Data Analysis]
-    EDA --> ML[Basic Machine Learning]
-    ML --> BI[Dashboards in Power BI]
-    BI --> Projects[End-to-End Projects]
+Aapki **career-ready skill progression** ka roadmap:
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Basics-✅-blue" alt="Basics"/>
+  <img src="https://img.shields.io/badge/Python-🐍-yellow" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-🗄️-orange" alt="SQL"/>
+  <img src="https://img.shields.io/badge/EDA-📊-green" alt="EDA"/>
+  <img src="https://img.shields.io/badge/ML-🤖-red" alt="ML"/>
+  <img src="https://img.shields.io/badge/Deployment-☁️-purple" alt="Deployment"/>
+</p>
 
+## 📌 Flow Details
 
-- *Data Science Mindset*: I love turning raw, messy data into insights using Python, Pandas, NumPy, and ML models.
-- *ML Explorer*: Always experimenting with algorithms — classification, clustering, forecasting — and learning how to improve real-world predictions.
-- *Analytical Thinking*: I break down complex problems into simple, logical, and workable solutions.
-- *Curiosity Driven*: If data exists, I want to analyze it. If patterns exist, I want to find them.
+- **Basics**: Programming fundamentals, Git & GitHub, Linux commands  
+- **Python**: `pandas`, `numpy`, `matplotlib`, `seaborn`  
+- **SQL**: Queries, Joins, Aggregations, Data Extraction  
+- **EDA (Exploratory Data Analysis)**: Data cleaning, visualization, feature engineering  
+- **Machine Learning**: `scikit-learn`, `XGBoost`, `LightGBM`, Model evaluation  
+- **Deployment**: `Flask` / `FastAPI`, `Streamlit`, Docker, Cloud (AWS/GCP)  
 
----
+## 💡 End-to-End Projects
+
+- Combine all skills to build **real-world projects**  
+- Showcase **portfolio-ready projects** on GitHub  
+- Demonstrate **career-readiness** to recruiters  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300" alt="Learning Progression"/>
+</p>
+
 ## 💡 Toolbox of the Modern Era
 
 <div align="center"> 
