@@ -107,9 +107,22 @@ flowchart TD
 ## 📡 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/piyush-suthar07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sutharpiyush033@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <!-- LinkedIn Profile -->
+  <a href="https://www.linkedin.com/in/prachisingh2884-ctrl/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:your_email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <!-- USA Link -->
+  <a href="https://www.usa.gov/" target="_blank">
+    <img src="https://img.shields.io/badge/USA-GREEN?style=for-the-badge" alt="USA Website" />
+  </a>
 </div>
+
 
 ---
 
