@@ -101,8 +101,26 @@ flowchart TD
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushsuthar07&theme=monokai" height="200" />
 </div>
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=prachisingh2884-ctrl&show_icons=true&theme=radical" height="160" />
 
----
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=prachisingh2884-ctrl&theme=radical" height="160" />
+  <br>
+
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prachisingh2884-ctrl&theme=monokai" height="200" />
+
+  <br>
+
+  <!-- Optional: Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachisingh2884-ctrl&layout=compact&theme=radical" height="160" />
+
+  <!-- Optional: Contributions Calendar -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prachisingh2884-ctrl&theme=react-dark" height="160" />
+</div>
+
 
 ## 📡 Connect With Me
 
