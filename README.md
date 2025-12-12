@@ -23,17 +23,25 @@
   <b>🚀 Data Science</b> &nbsp;|&nbsp; <b>📈 Aspiring Data Analyst</b> &nbsp;|&nbsp; <b>🧠 Python & Power BI</b>
 </p>
 
-# 🚀 Data Science & ML Learning Path
-
-Aapki **career-ready skill progression** ka roadmap:
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Basics-✅-blue" alt="Basics"/>
-  <img src="https://img.shields.io/badge/Python-🐍-yellow" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-🗄️-orange" alt="SQL"/>
-  <img src="https://img.shields.io/badge/EDA-📊-green" alt="EDA"/>
-  <img src="https://img.shields.io/badge/ML-🤖-red" alt="ML"/>
-  <img src="https://img.shields.io/badge/Deployment-☁️-purple" alt="Deployment"/>
+  <a href="https://www.example.com/basics" target="_blank">
+    <img src="https://img.shields.io/badge/Basics-✅-blue" alt="Basics"/>
+  </a>
+  <a href="https://www.example.com/python" target="_blank">
+    <img src="https://img.shields.io/badge/Python-🐍-yellow" alt="Python"/>
+  </a>
+  <a href="https://www.example.com/sql" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-🗄️-orange" alt="SQL"/>
+  </a>
+  <a href="https://www.example.com/eda" target="_blank">
+    <img src="https://img.shields.io/badge/EDA-📊-green" alt="EDA"/>
+  </a>
+  <a href="https://www.example.com/ml" target="_blank">
+    <img src="https://img.shields.io/badge/ML-🤖-red" alt="ML"/>
+  </a>
+  <a href="https://www.example.com/deployment" target="_blank">
+    <img src="https://img.shields.io/badge/Deployment-☁️-purple" alt="Deployment"/>
+  </a>
 </p>
 
 ## 📌 Flow Details
