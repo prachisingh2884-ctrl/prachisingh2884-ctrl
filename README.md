@@ -162,17 +162,6 @@ Aapki **career-ready skill progression** ka roadmap:
 </div>
 
 
-## 💡 End-to-End Projects
-
-- Combine all skills to build **real-world projects**  
-- Showcase **portfolio-ready projects** on GitHub  
-- Demonstrate **career-readiness** to recruiters  
-
-<p align="center">
-  <a href="https://github.com/yourusername/projects" target="_blank">
-    <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300" alt="Learning Progression"/>
-  </a>
-</p>
 
 ---
 
