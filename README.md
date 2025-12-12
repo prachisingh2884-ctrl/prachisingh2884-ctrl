@@ -5,12 +5,12 @@
 </p>
 
 
-
 <!-- 🚀 Modern Animated Header | Data Science Learner -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=FFC300&vCenter=true&width=900&lines=Data+Science+Learner;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Analyst;Welcome+to+My+Tech+Space!" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Monospace&size=30&pause=800&color=00F5FF&background=000000&vCenter=true&width=950&lines=Data+Science+Learner;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Analyst;Welcome+to+My+Tech+Space!" alt="typing" />
 </p>
+
 
 <h1 align="center">
    Hi, I'm Prachi Singh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand">
