@@ -161,9 +161,6 @@ Aapki **career-ready skill progression** ka roadmap:
   </a>
 </div>
 
-
----
-
 # 🌈 Final Thought
 
 <p align="center">
