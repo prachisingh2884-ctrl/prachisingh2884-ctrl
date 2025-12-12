@@ -161,13 +161,63 @@ Aapki **career-ready skill progression** ka roadmap:
   </a>
 </div>
 
+# 🚀 Data Science & ML Learning Path
+
+Aapki **career-ready skill progression** ka roadmap:
+
+<p align="center">
+  <a href="https://github.com/yourusername/basics" target="_blank">
+    <img src="https://img.shields.io/badge/Basics-✅-blue" alt="Basics"/>
+  </a>
+  <a href="https://github.com/yourusername/python" target="_blank">
+    <img src="https://img.shields.io/badge/Python-🐍-yellow" alt="Python"/>
+  </a>
+  <a href="https://github.com/yourusername/sql" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-🗄️-orange" alt="SQL"/>
+  </a>
+  <a href="https://github.com/yourusername/eda" target="_blank">
+    <img src="https://img.shields.io/badge/EDA-📊-green" alt="EDA"/>
+  </a>
+  <a href="https://github.com/yourusername/ml" target="_blank">
+    <img src="https://img.shields.io/badge/ML-🤖-red" alt="ML"/>
+  </a>
+  <a href="https://github.com/yourusername/deployment" target="_blank">
+    <img src="https://img.shields.io/badge/Deployment-☁️-purple" alt="Deployment"/>
+  </a>
+</p>
+
+---
+
+## 📌 Flow Details
+
+- **Basics**: Programming fundamentals, Git & GitHub, Linux commands  
+- **Python**: `pandas`, `numpy`, `matplotlib`, `seaborn`  
+- **SQL**: Queries, Joins, Aggregations, Data Extraction  
+- **EDA (Exploratory Data Analysis)**: Data cleaning, visualization, feature engineering  
+- **Machine Learning**: `scikit-learn`, `XGBoost`, `LightGBM`, Model evaluation  
+- **Deployment**: `Flask` / `FastAPI`, `Streamlit`, Docker, Cloud (AWS/GCP)  
+
+---
+
+## 💡 End-to-End Projects
+
+- Combine all skills to build **real-world projects**  
+- Showcase **portfolio-ready projects** on GitHub  
+- Demonstrate **career-readiness** to recruiters  
+
+<p align="center">
+  <a href="https://github.com/yourusername/projects" target="_blank">
+    <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300" alt="Learning Progression"/>
+  </a>
+</p>
+
+---
+
 ## 🌈 Final Thought ✨
 
 > 🔹 Pipelines are like **puzzles** 🧩; ML is like **magic** ✨  
 > 🔹 Every new tool is a **party** 🎉, and every new problem is an **invitation** 🎯  
 > 🔹 Making tech more **fun**, **fast**, and **fail-proof**—one commit at a time 💻💡
-
----
 
 <div align="center">
   <!-- Confetti animation GIF -->
@@ -181,20 +231,21 @@ Aapki **career-ready skill progression** ka roadmap:
   <br>
 
   <!-- Interactive Social Badges -->
-  <a href="https://github.com/prachisingh" target="_blank">
+  <a href="https://github.com/piyushsuthar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=for-the-badge" alt="GitHub Profile">
   </a>
-  <a href="https://www.linkedin.com/in/prachisingh" target="_blank">
+  <a href="https://www.linkedin.com/in/piyushsuthar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/prachisingh" target="_blank">
+  <a href="https://twitter.com/piyushsuthar" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter">
   </a>
 </div>
 
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="250" alt="Sparkle Animation">
 </p>
+
+
+
 
