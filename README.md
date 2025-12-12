@@ -20,32 +20,9 @@
 </p>
 
 ---
-
-## 🧬 My Tech Story: Automating + Innovating Across Stacks
-<!-- 🚀 Green Hacker Style DevOps + ML README -->
-
-<p align="center">
-  <span style="color:#00FF00; font-size:28px;">
-    Hi, I'm Prachi Singh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand">
-  </span>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML-FF6F61?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Science-009688?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-0D1117?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
 ## 🧬 My Tech Story: Automating + Innovating Across Stacks
 
-<table>
-<tr>
-<td>
-
-```mermaid
+mermaid
 flowchart TD
     Start{{Learn Basics}} --> Python[Python for Data]
     Python --> SQL[SQL & Databases]
@@ -53,6 +30,21 @@ flowchart TD
     EDA --> ML[Basic Machine Learning]
     ML --> BI[Dashboards in Power BI]
     BI --> Projects[End-to-End Projects]
+
+
+
+- *Data Science Mindset*: I love turning raw, messy data into insights using Python, Pandas, NumPy, and ML models.
+- *ML Explorer*: Always experimenting with algorithms — classification, clustering, forecasting — and learning how to improve real-world predictions.
+- *Analytical Thinking*: I break down complex problems into simple, logical, and workable solutions.
+- *Curiosity Driven*: If data exists, I want to analyze it. If patterns exist, I want to find them.
+
+---
+
+## 💡 Toolbox of the Modern Era
+
+
+
+
 
 ## 💡 Toolbox of the Modern Era
 
