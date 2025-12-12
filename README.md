@@ -138,13 +138,20 @@ flowchart TD
 
 ---
 
-## 🌈 Final Thought
+# 🌈 Final Thought
 
-> Pipelines are like puzzles; ML is like magic.  
-> Every new tool is a party, and every new problem is an invitation.  
-> Trying to make tech more fun, fast, and fail-proof—one commit at a time.
+<p align="center">
+  ✨ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"> Pipelines are like puzzles; ML is like magic. ✨
+</p>
 
----
+<p align="center">
+  🎉 Every new tool is a party, and every new problem is an invitation.  
+</p>
+
+<p align="center">
+  🚀 Trying to make tech more fun, fast, and fail-proof—one commit at a time.
+</p>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyclF1b2RuMGRyY3MzYTFxeHc0YWNvb3VlbwktOdmlmc3Cobz7d4g/giphy.gif" height="100" alt="Confetti animation">
