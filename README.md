@@ -161,21 +161,40 @@ Aapki **career-ready skill progression** ka roadmap:
   </a>
 </div>
 
-# 🌈 Final Thought
+## 🌈 Final Thought ✨
 
-<p align="center">
-  🚀 Trying to make tech more fun, fast, and fail-proof—one commit at a time.
-</p>
+> 🔹 Pipelines are like **puzzles** 🧩; ML is like **magic** ✨  
+> 🔹 Every new tool is a **party** 🎉, and every new problem is an **invitation** 🎯  
+> 🔹 Making tech more **fun**, **fast**, and **fail-proof**—one commit at a time 💻💡
+
+---
 
 <div align="center">
-  <!-- Techy Confetti / Celebration GIF -->
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" height="120" alt="Celebration Animation" />
+  <!-- Confetti animation GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyclF1b2RuMGRyY3MzYTFxeHc0YWNvb3VlbwktOdmlmc3Cobz7d4g/giphy.gif" height="140" alt="Confetti Animation">
+
+  <br><br>
+
+  <!-- Gradient style styled text using emojis -->
+  <h3>💻 Modern Analyst + Data Science | Turning Data into Magic ✨</h3>
+
   <br>
-  <sub>
-    <i style="color:#00FF00; font-size:14px;">
-      🚀 Modern Analyst + Data Science Enthusiast <br> by Prachi Singh
-    </i>
-  </sub>
-  <br>
-  <span style="font-size:16px;">✨ Turning data into insights, one pipeline at a time ✨</span>
+
+  <!-- Interactive Social Badges -->
+  <a href="https://github.com/prachisingh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=for-the-badge" alt="GitHub Profile">
+  </a>
+  <a href="https://www.linkedin.com/in/prachisingh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/prachisingh" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter">
+  </a>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="250" alt="Sparkle Animation">
+</p>
+
