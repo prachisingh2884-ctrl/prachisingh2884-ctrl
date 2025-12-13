@@ -155,11 +155,7 @@ Aapki **career-ready skill progression** ka roadmap:
 > 🔹 Every new tool is a **party** 🎉, and every new problem is an **invitation** 🎯  
 > 🔹 Making tech more **fun**, **fast**, and **fail-proof**—one commit at a time 💻💡
 
-<div align="center">
-  <!-- Confetti animation GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyclF1b2RuMGRyY3MzYTFxeHc0YWNvb3VlbwktOdmlmc3Cobz7d4g/giphy.gif" height="140" alt="Confetti Animation">
 
-  <br><br>
 
   <!-- Gradient style styled text using emojis -->
   <h3>💻 Modern Analyst + Data Science by prachisingh | Turning Data into Magic ✨</h3>
