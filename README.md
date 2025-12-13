@@ -51,8 +51,8 @@ Aapki **career-ready skill progression** ka roadmap:
 - **Python**: `pandas`, `numpy`, `matplotlib`,   
 - **SQL**: Queries, Joins, Aggregations, Data Extraction  
 - **EDA (Exploratory Data Analysis)**: Data cleaning, visualization, feature engineering  
-- **Machine Learning**: `scikit-learn`, `XGBoost`, `LightGBM`, Model evaluation  
-- **Deployment**: `Flask` / `FastAPI`, `Streamlit`, Docker, Cloud (AWS/GCP)  
+- **Machine Learning**: `scikit-learn`, Model evaluation  
+- **Deployment**: `Flask` / `FastAPI`, `Streamlit`, Docker, AWS 
 
 ## 💡 End-to-End Projects
 
