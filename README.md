@@ -27,9 +27,7 @@
 Aapki **career-ready skill progression** ka roadmap:
 
 <p align="center">
-  <a href="https://github.com/yourusername/basics" target="_blank">
-    <img src="https://img.shields.io/badge/Basics-✅-blue" alt="Basics"/>
-  </a>
+
   <a href="https://github.com/yourusername/python" target="_blank">
     <img src="https://img.shields.io/badge/Python-🐍-yellow" alt="Python"/>
   </a>
